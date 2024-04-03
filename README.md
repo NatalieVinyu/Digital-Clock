@@ -1,3 +1,8 @@
-A digital clock with a toggle switch.
+# Digital Clock
+## Built with: 
+* HTML
+* CSS
+* Javascript
 
-### https://resonant-brigadeiros-70f656.netlify.app/
+## Demo : 
+https://resonant-brigadeiros-70f656.netlify.app/
